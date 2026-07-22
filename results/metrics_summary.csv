@@ -1,0 +1,11 @@
+model,task,metric,score
+Random Forest,Classification,Accuracy,0.9559446931579573
+Random Forest,Classification,Precision (macro),0.9101918395458609
+Random Forest,Classification,Recall (macro),0.9144929845115309
+Random Forest,Classification,F1-score (macro),0.911076352634004
+Random Forest,Classification,Precision (weighted),0.9592830066519863
+Random Forest,Classification,Recall (weighted),0.9559446931579573
+Random Forest,Classification,F1-score (weighted),0.9569015593639058
+Random Forest,Classification,CV Macro F1 (mean),0.9080588557555298
+Random Forest,Classification,CV Macro F1 (std),0.005504354341821823
+Random Forest,Classification,Mean ROC-AUC,0.9963259216829728
