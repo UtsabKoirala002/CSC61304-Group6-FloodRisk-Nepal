@@ -1,0 +1,2 @@
+Model,Optimal_K,Silhouette_Score,Calinski_Harabasz_Index,Davies_Bouldin_Index
+K-Means,3,0.21241341505536376,32467.74087537232,1.8213662498715835
